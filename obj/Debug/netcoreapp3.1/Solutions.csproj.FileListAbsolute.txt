@@ -1,0 +1,12 @@
+C:\Training\leet-code\Solutions\bin\Debug\netcoreapp3.1\Solutions.exe
+C:\Training\leet-code\Solutions\bin\Debug\netcoreapp3.1\Solutions.deps.json
+C:\Training\leet-code\Solutions\bin\Debug\netcoreapp3.1\Solutions.runtimeconfig.json
+C:\Training\leet-code\Solutions\bin\Debug\netcoreapp3.1\Solutions.runtimeconfig.dev.json
+C:\Training\leet-code\Solutions\bin\Debug\netcoreapp3.1\Solutions.dll
+C:\Training\leet-code\Solutions\bin\Debug\netcoreapp3.1\Solutions.pdb
+C:\Training\leet-code\Solutions\obj\Debug\netcoreapp3.1\Solutions.csprojAssemblyReference.cache
+C:\Training\leet-code\Solutions\obj\Debug\netcoreapp3.1\Solutions.AssemblyInfoInputs.cache
+C:\Training\leet-code\Solutions\obj\Debug\netcoreapp3.1\Solutions.AssemblyInfo.cs
+C:\Training\leet-code\Solutions\obj\Debug\netcoreapp3.1\Solutions.dll
+C:\Training\leet-code\Solutions\obj\Debug\netcoreapp3.1\Solutions.pdb
+C:\Training\leet-code\Solutions\obj\Debug\netcoreapp3.1\Solutions.genruntimeconfig.cache
