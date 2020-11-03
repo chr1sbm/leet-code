@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Common;
+
 
 namespace Solutions
 {
@@ -11,18 +13,7 @@ namespace Solutions
             The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
             NOTE: THIS IS BFS METHOD, IT'S ALSO POSSIBLE USING DFS
              */
-        public class TreeNode
-        {
-            public int val;
-            public TreeNode left;
-            public TreeNode right;
-            public TreeNode(int val = 0, TreeNode left = null, TreeNode right = null)
-            {
-                this.val = val;
-                this.left = left;
-                this.right = right;
-            }
-        }
+        
         public int MinDepth(TreeNode root)
         {
             if (root == null) return 0;

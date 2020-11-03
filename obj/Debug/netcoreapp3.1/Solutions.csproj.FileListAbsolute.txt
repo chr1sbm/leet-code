@@ -10,3 +10,6 @@ C:\Training\leet-code\Solutions\obj\Debug\netcoreapp3.1\Solutions.AssemblyInfo.c
 C:\Training\leet-code\Solutions\obj\Debug\netcoreapp3.1\Solutions.dll
 C:\Training\leet-code\Solutions\obj\Debug\netcoreapp3.1\Solutions.pdb
 C:\Training\leet-code\Solutions\obj\Debug\netcoreapp3.1\Solutions.genruntimeconfig.cache
+C:\Training\leet-code\Solutions\bin\Debug\netcoreapp3.1\Common.dll
+C:\Training\leet-code\Solutions\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Training\leet-code\Solutions\obj\Debug\netcoreapp3.1\Solutions.csproj.CopyComplete
