@@ -41,5 +41,25 @@ namespace Solutions
             return Math.Max(left, right) + 1;
 
         }
+
+        public bool IsBalancedV2(TreeNode root)
+        {
+            bool isBalanced = true;
+            getHeightV2(root, ref isBalanced);
+            return isBalanced;
+        }
+
+        private int getHeightV2(TreeNode root, ref bool isBalanced)
+        {
+            if (root == null) return 0;
+
+            var left = getHeightV2(root.left, ref isBalanced);
+            var right = getHeightV2(root.right, ref isBalanced);
+
+            if (Math.Abs(left - right) > 1) isBalanced = false;
+
+            return Math.Max(left, right) + 1;
+
+        }
     }
 }

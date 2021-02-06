@@ -7,16 +7,12 @@ namespace Solutions
         
         static void Main(string[] args)
         {
-            var judge = new FindTheTownJudge();
-            var trust = new int[][]
+            var t = new TestIter();
+            var sth = t.ChunkIter("abcdef", 4);
+            foreach(var i in sth)
             {
-                new int[]{1,3},
-                new int[]{2,3},
-                new int[]{3,1}
-
-            };
-
-            Console.WriteLine(judge.FindJudge(3, trust));
+                Console.WriteLine(i);
+            }
         }
     }
 }
